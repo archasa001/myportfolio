@@ -1,12 +1,5 @@
 const projects = [
   {
-    title: 'Student Task Manager',
-    description:
-      'A clean productivity web app concept for students to manage assignments, study goals, reminders, and daily priorities in one dashboard.',
-    tech: ['React', 'Tailwind CSS', 'JavaScript'],
-    accent: 'from-rose-500 to-orange-400',
-  },
-  {
     title: 'Portfolio Blog UI',
     description:
       'A personal blog and portfolio interface designed to present projects, achievements, and technical learning updates in a professional way.',
